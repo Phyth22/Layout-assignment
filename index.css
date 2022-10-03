@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+#tittle{
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    float:right;
+
+
+}
+#logo{
+    height: 800px;
+    width: 500px;
+    background-color: chocolate;
+
+}
